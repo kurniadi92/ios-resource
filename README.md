@@ -1,4 +1,4 @@
-# ios-resource
+# iOS-resources
 
 - Thread and Concurencies 
   - [Multithreading on iOS](https://www.slideshare.net/Makeschool/multithreading-on-ios)
